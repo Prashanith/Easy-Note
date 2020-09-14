@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283317233713",
+    "firebase_url": "https://easy-note-007.firebaseio.com",
+    "project_id": "easy-note-007",
+    "storage_bucket": "easy-note-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283317233713:android:c04e983f0544cae756cd10",
+        "android_client_info": {
+          "package_name": "com.dev007.easy_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283317233713-6brgg3n73gvg9ka2uf6qoaps11un3ded.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAumYJ2qSqlmAJPFcmON5EfqkczRTHeQos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283317233713-6brgg3n73gvg9ka2uf6qoaps11un3ded.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
