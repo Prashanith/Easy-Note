@@ -1,3 +1,4 @@
+import 'package:easy_note/Presentation/Screens/sign_in_form.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -5,7 +6,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -27,7 +27,9 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return SafeArea(
+      child: SignInForm(),
+    );
   }
 }
 
